@@ -48,7 +48,7 @@ html {
 ul {
     list-style-type: none;
     margin: 0;
-    padding 0;
+    padding: 0;
 }
 
 li {
@@ -76,6 +76,8 @@ body {
 }
 
 h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 1.5em;
     color: #4aaaa5;
     border-bottom: solid #cccccc;
     padding-bottom: 20px;
@@ -96,6 +98,7 @@ h4 {
     float: left;
     margin: auto;
     display: inline;
+    padding: 20px;
 }
 
 .paragraph {
