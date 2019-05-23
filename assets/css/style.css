@@ -32,6 +32,10 @@
     right: 330px;
 }
 
+.about {
+    padding-bottom: 10px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -64,7 +68,8 @@ body {
 
 h1 {
     color: #4aaaa5;
-    border-bottom: solid #cccccc
+    border-bottom: solid #cccccc;
+    padding-bottom: 20px;
 }
 
 h4 {
