@@ -37,7 +37,7 @@ html {
 
 
 .about,
-.portfolio {
+.projects {
     padding-bottom: 10px;
     padding-top: 10px
 
@@ -89,6 +89,7 @@ h4 {
 
 .content-page {
     background-color: #ffffff;
+    padding-left: 20px;
 }
 
 .kam-pic {
@@ -96,7 +97,7 @@ h4 {
     float: left;
     margin: auto;
     display: inline;
-    padding: 20px;
+    padding-right: 20px;
 }
 
 .paragraph {
@@ -105,7 +106,6 @@ h4 {
     font-size: 16px;
     text-align: justify;
     text-justify: inter-word;
-    padding-left: 30px;
     padding-right: 20px;
     line-height: 1.5em;
     background-color: #ffffff;
