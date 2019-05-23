@@ -2,11 +2,28 @@
     background: #ffffff;
     border-bottom: solid #cccccc;
     width: 100%;
-    display: block;
-    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
 
-#name {
+.container {
+    width: 960px;
+    margin: auto;
+}
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    padding: 28px 4px;
+    width: 300;
+    margin: auto;
+}
+
+.left {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 26px;
     font-weight: bold;
