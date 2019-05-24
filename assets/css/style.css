@@ -35,12 +35,11 @@ html {
     border: #ffffff;
 }
 
-
 .about,
 .projects {
     padding-bottom: 10px;
-    padding-top: 10px
-
+    padding-top: 10px;
+    float: left;
 }
 
 ol {
@@ -112,9 +111,9 @@ h4 {
 }
 
 .project-page {
-	background-color: #fff;
-	padding: 30px;
-	border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 30px;
+    border: 1px solid #ddd;
 }
 
 .project {
@@ -123,15 +122,15 @@ h4 {
     width: 274px;
     margin: 20px 0 25px;
     overflow: auto;
-  }
+}
 
-  .project img {
+.project img {
     width: 100%;
     border: 0 none;
     opacity: 0.8;
-  }
+}
 
-  .project h3 {
+.project h3 {
     position: absolute;
     bottom: 20px;
     width: 100%;
@@ -145,7 +144,7 @@ h4 {
     border-bottom: 0;
     font-family: "Georgia";
     font-size: 22px;
-  }
+}
 
 .footer-section {
     background-color: #666666;
